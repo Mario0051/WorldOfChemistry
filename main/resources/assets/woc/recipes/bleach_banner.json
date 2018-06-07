@@ -1,0 +1,79 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "woc:bleach"
+    },
+    [
+        {
+            "item": "minecraft:banner",
+            "data": 0
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 1
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 2
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 3
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 4
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 5
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 6
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 7
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 8
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 9
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 10
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 11
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 12
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 13
+        },
+        {
+            "item": "minecraft:banner",
+            "data": 14
+        },
+        
+        {
+            "item": "minecraft:banner",
+            "data": 15
+        }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:banner",
+    "data": 15
+  }
+}

@@ -14,12 +14,18 @@ import net.minecraftforge.oredict.OreDictionary;
 
 public class DemBrewing
 {	
+	public static ItemStack antidote = new ItemStack(ItemInit.ANTIDOTE);
+	public static ItemStack elixir = new ItemStack(ItemInit.ELIXIR);
+	public static ItemStack eyeDrops = new ItemStack(ItemInit.EYE_DROPS);
 	public static ItemStack tonic = new ItemStack(ItemInit.TONIC);
 	public static ItemStack awkwardPotion = PotionUtils.addPotionToItemStack(new ItemStack(Items.POTIONITEM), getVanillaType("awkward"));
 	
 	public static void init()
 	{
-		BrewingRecipeRegistry.addRecipe(awkwardPotion, new ItemStack(BlockInit.ELEMENT_83), tonic);	
+		BrewingRecipeRegistry.addRecipe(awkwardPotion, new ItemStack(BlockInit.ELEMENT_47), antidote);
+		BrewingRecipeRegistry.addRecipe(awkwardPotion, new ItemStack(BlockInit.ELEMENT_27), elixir);
+		BrewingRecipeRegistry.addRecipe(awkwardPotion, new ItemStack(BlockInit.ELEMENT_20), eyeDrops);
+		BrewingRecipeRegistry.addRecipe(awkwardPotion, new ItemStack(BlockInit.ELEMENT_83), tonic);
 	}
 	
 	public static PotionType getVanillaType(String name)

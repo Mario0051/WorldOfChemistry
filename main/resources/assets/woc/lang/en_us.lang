@@ -1,4 +1,7 @@
+item.antidote.name=Antidote
 item.bleach.name=Bleach
+item.elixir.name=Elixir
+item.eye_drops.name=Eye Drops
 item.tonic.name=Tonic
 tile.element_1.name=Hydrogen
 tile.element_2.name=Helium

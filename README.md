@@ -18,5 +18,5 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 * Compound Creator
 * Underwater TNT
 * Heat Block
-* Colored Torch
+* Colored Torches
 * Hardened Glass and Glass Panes

@@ -10,7 +10,6 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 * Balloons
 * Glow Sticks
 * Sparklers
-* Compounds
 * Underwater Torch
 * Lab Table
 * Material Reducer

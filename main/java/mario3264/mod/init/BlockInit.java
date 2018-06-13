@@ -11,6 +11,7 @@ public class BlockInit
 {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
+	public static final Block ELEMENT_0 = new BlockBase("element_0", Material.ROCK);
 	public static final Block ELEMENT_1 = new BlockBase("element_1", Material.ROCK);
 	public static final Block ELEMENT_2 = new BlockBase("element_2", Material.ROCK);
 	public static final Block ELEMENT_3 = new BlockBase("element_3", Material.ROCK);

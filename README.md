@@ -8,7 +8,7 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 * Ice Bomb
 * Super Fertilizer
 * Balloons
-* Glow Stick
+* Glow Sticks
 * Sparklers
 * Compounds
 * Underwater Torch

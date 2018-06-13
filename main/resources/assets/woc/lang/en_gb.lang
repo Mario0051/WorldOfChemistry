@@ -34,6 +34,7 @@ item.sodium_oxide.name=Sodium Oxide
 item.sulfate.name=Sulfate
 item.tonic.name=Tonic
 item.tungsten_chloride.name=Tungsten Chloride
+item.water.name=Water
 tile.element_0.name=???
 tile.element_1.name=Hydrogen
 tile.element_2.name=Helium

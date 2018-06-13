@@ -44,7 +44,7 @@ public class ItemInit
 	public static final Item SODIUM_ACETATE = new ItemBase("sodium_acetate");
 	public static final Item SODIUM_FLUORIDE = new ItemBase("sodium_fluoride");
 	public static final Item SODIUM_HYDRIDE = new ItemBase("sodium_hydride");
-	public static final Item SODIUM_HYPOCHLORITE = new ItemBase("sodium_hypochlorate");
+	public static final Item SODIUM_HYPOCHLORITE = new ItemBase("sodium_hypochlorite");
 	public static final Item SODIUM_OXIDE = new ItemBase("sodium_oxide");
 	public static final Item SULFATE = new ItemBase("sulfate");
 	public static final Item TONIC = new ItemCurativePotion("tonic", 9);

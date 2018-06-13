@@ -20,3 +20,6 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 * Heat Block
 * Colored Torches
 * Hardened Glass and Glass Panes
+
+# Missing release versions
+I don't know how to tag specific commits in GitHub without using the command-line. Only v0.2-alpha is tagged in the releases for now.

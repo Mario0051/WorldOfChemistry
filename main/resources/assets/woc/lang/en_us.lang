@@ -3,6 +3,7 @@ item.bleach.name=Bleach
 item.elixir.name=Elixir
 item.eye_drops.name=Eye Drops
 item.tonic.name=Tonic
+tile.element_0.name=???
 tile.element_1.name=Hydrogen
 tile.element_2.name=Helium
 tile.element_3.name=Lithium

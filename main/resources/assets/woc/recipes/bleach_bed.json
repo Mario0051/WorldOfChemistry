@@ -1,0 +1,79 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "woc:bleach"
+    },
+    [
+        {
+            "item": "minecraft:bed",
+            "data": 0
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 1
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 2
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 3
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 4
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 5
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 6
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 7
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 8
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 9
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 10
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 11
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 12
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 13
+        },
+        {
+            "item": "minecraft:bed",
+            "data": 14
+        },
+        
+        {
+            "item": "minecraft:bed",
+            "data": 15
+        }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:bed",
+    "data": 0
+  }
+}

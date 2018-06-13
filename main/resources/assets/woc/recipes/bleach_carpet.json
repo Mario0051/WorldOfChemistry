@@ -1,0 +1,79 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "woc:bleach"
+    },
+    [
+        {
+            "item": "minecraft:carpet",
+            "data": 0
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 1
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 2
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 3
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 4
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 5
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 6
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 7
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 8
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 9
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 10
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 11
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 12
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 13
+        },
+        {
+            "item": "minecraft:carpet",
+            "data": 14
+        },
+        
+        {
+            "item": "minecraft:carpet",
+            "data": 15
+        }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:carpet",
+    "data": 0
+  }
+}

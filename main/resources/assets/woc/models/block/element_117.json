@@ -1,0 +1,7 @@
+{
+    "parent": "woc:block/element_base",
+    "textures": {
+        "particle": "woc:blocks/element_117_ts",
+        "all": "woc:blocks/element_117_ts"
+    }
+}

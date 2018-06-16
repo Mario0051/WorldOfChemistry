@@ -4,6 +4,9 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 # Ideas of things you can add and are currently missing from my mod
 * Better crafting implementations for bleach by making it not work with a plain, white banner.
 * Other crafting recipes that are in the update
+* Brewing recipes for the curative items
+* Compound Creator recipes
+* GUI's for the blocks
 * Ice Bomb
 * Super Fertilizer
 * Balloons

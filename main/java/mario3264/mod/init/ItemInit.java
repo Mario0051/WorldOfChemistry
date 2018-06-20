@@ -26,6 +26,7 @@ public class ItemInit
 	public static final Item CRUDE_OIL = new ItemBase("crude_oil");
 	public static final Item ELIXIR = new ItemCurativePotion("elixir", 18);
 	public static final Item EYE_DROPS = new ItemCurativePotion("eye_drops", 15);
+	public static final Item GARBAGE = new ItemBase("garbage");
 	public static final Item GLUE = new ItemBase("glue");
 	public static final Item HYDROGEN_PEROXIDE = new ItemBase("hydrogen_peroxide");
 	public static final Item IRON_SULFIDE = new ItemBase("iron_sulfide");

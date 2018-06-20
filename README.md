@@ -26,4 +26,4 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 \*Directional like furnaces
 
 # Missing release versions
-I don't know how to tag specific commits in GitHub without using the command-line. So release versions before v0.2-alpha aren't tagged in the releases for now.
+I don't know how to tag specific commits in GitHub without using the command-line. So release versions before v0.2-alpha aren't tagged in the releases for now. v0.2.1-alpha isn't tagged in the releases because I accidentally tagged it to the master branch instead of the specific commit.

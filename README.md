@@ -6,6 +6,7 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 * Other crafting recipes that are in the update
 * Brewing recipes for the curative items
 * Compound Creator recipes
+* Lab Table recipes
 * GUI's for the blocks
 * Ice Bomb
 * Super Fertilizer

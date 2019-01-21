@@ -24,9 +24,3 @@ You may pull request features that are from the Chemistry Update for Minecraft: 
 * Hardened Glass and Glass Panes
 
 \*Directional like furnaces
-
-# Missing release versions
-I need to know how to make a release tag to a specific commit (not to the master branch) so I can add releases v0.1-alpha, v0.1.1-alpha, and v0.2.1-alpha (using Git command line). So release versions before v0.2-alpha aren't tagged in the releases for now. v0.2.1-alpha isn't tagged in the releases because I accidentally tagged it to the master branch instead of the specific commit. 
-* v0.2.1-alpha: 1b48939
-* v0.1.1-alpha: 310012a
-* v0.1-alpha: 6d52344

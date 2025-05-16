@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+  "textures": {
+    "down": "woc:block/lab_table_bottom",
+    "east": "woc:block/element_constructor_side_b",
+    "north": "woc:block/element_constructor_front",
+    "particle": "woc:block/lab_table_bottom",
+    "south": "woc:block/element_constructor_back",
+    "up": "woc:block/element_constructor_top",
+    "west": "woc:block/element_constructor_side_a"
+  }
+}

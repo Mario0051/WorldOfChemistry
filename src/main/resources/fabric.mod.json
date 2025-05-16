@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "woc",
+	"version": "${version}",
+	"name": "World Of Chemistry",
+	"description": "This mod adds features from the Chemistry Update (Minecraft: Education Edition).",
+	"authors": [
+		"Mario"
+	],
+	"contact": {
+		"sources": "https://github.com/Mario0051/WorldOfChemistry"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/woc/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mario.worldofchemistry.WorldOfChemistry"
+		],
+		"client": [
+			"mario.worldofchemistry.WorldOfChemistryClient"
+		],
+		"fabric-datagen": [
+			"mario.worldofchemistry.datagen.DataGenerator"
+		]
+	},
+	"mixins": [
+		"woc.mixins.json",
+		{
+			"config": "woc.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
